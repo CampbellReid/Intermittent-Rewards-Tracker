@@ -1,1 +1,3 @@
-# Intermittent-Rewards-Tracker
+# Intermittent Rewards Tracker
+
+Based on the science of [Stick With It, by Sean Young](https://www.amazon.com/Stick-Scientifically-Process-Changing-Life/dp/0062692860). This effectively lets you add certain tasks or behaviours you want to do, and instead of deciding when you reward yourself, this app does it for you. It does this by using probability to make getting a reward for doing a task like gambling, with the intent to make the task more satisfying. This works because the brain desires rewards which happen less frequently than those which happen all the time. The app also adjusts for how new a task is, so the rewards become statistically less frequent as the time increases sincve they were started.
